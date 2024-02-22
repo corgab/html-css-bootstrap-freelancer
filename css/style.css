@@ -2,6 +2,15 @@ img {
     max-width: 100%;
 }
 
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
+footer a {
+    color: #0d6efd;
+}
+
 .img_hero {
     width: 230px;
 }
