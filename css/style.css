@@ -1,3 +1,7 @@
-.debug .col-6 {
-    background-color: red;
+img {
+    max-width: 100%;
+}
+
+.img_hero {
+    width: 230px;
 }
